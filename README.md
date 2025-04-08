@@ -16,4 +16,4 @@ I want to create an interactive dashboard that provides insights into Superstore
 •	What is the average delivery time for each shipping mode?
 
 ## Dashboard Interaction
-- <a href="
+- <a href="https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20%26%20Insights%20Dashboard.png">View Dashboard</a>
