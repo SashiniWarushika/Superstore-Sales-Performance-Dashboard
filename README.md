@@ -17,8 +17,9 @@ I want to create an interactive dashboard that provides insights into Superstore
 - Dashboard Interaction <a href="https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20%26%20Insights%20Dashboard.png">View Dashboard</a>
 
 ## Process
-Data Preparation – Import the dataset, clean the data, and create calculated fields.
-Data Exploration & Analysis – Identify key and determine the required visualizations.
-Dashboard Development – Create charts like Line Charts (Sales Trends), Bar Charts (Top & Bottom Selling Products), Maps (Regional Sales), and Box Plots (Delivery Time Analysis).
-Interactivity & Filters – Add filters and enable Dashboard Actions to make charts interactive.
+- Data Preparation – Import the dataset, clean the data, and create calculated fields.
+- Data Exploration & Analysis – Identify key and determine the required visualizations.
+- Dashboard Development – Create charts like Line Charts (Sales Trends), Bar Charts (Top & Bottom Selling Products), Maps (Regional Sales), and Box Plots (Delivery Time Analysis).
+- Interactivity & Filters – Add filters and enable Dashboard Actions to make charts interactive.
 
+## Dashboard
