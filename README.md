@@ -2,7 +2,7 @@
 ## Project Objective 
 I want to create an interactive dashboard that provides insights into Superstore sales trends, product performance, regional variations, and customer segments to support data-driven decision-making.
 
-## Dataset used
+## Dataset Used
 - <a href="https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/superstore_final_dataset.csv">Dataset</a>
 
 ## Questions (KPIs)
@@ -25,7 +25,7 @@ I want to create an interactive dashboard that provides insights into Superstore
 ## Dashboard
 ![Superstore Sales Perfomance & Insights - Dasboard](https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20&%20Insights%20Dashboard.png?raw=true)
 
-### project Insights
+### Project Insights
 - The analysis indicates that Phones (technology) and Chairs (furniture) are the highest-selling product sub categories, demonstrating strong consumer demand in both the technology and furniture categories.
 - The Consumer segment contributes approximately 51% of the total revenue, making it the most significant customer segment in terms of sales performance.
 - Among the available shipping options, the Standard Class ship mode exhibits the highest impact on overall sales volume, suggesting a strong preference or wider usage across customer orders.
