@@ -23,4 +23,4 @@ I want to create an interactive dashboard that provides insights into Superstore
 - Interactivity & Filters – Add filters and enable Dashboard Actions to make charts interactive.
 
 ## Dashboard
-https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20&%20Insights%20Dashboard.png?raw=true
+![Superstore Sales Perfomance & Insights - Dasboard](https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20&%20Insights%20Dashboard.png?raw=true)
