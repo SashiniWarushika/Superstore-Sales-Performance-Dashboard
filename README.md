@@ -24,3 +24,24 @@ I want to create an interactive dashboard that provides insights into Superstore
 
 ## Dashboard
 ![Superstore Sales Perfomance & Insights - Dasboard](https://github.com/SashiniWarushika/Superstore-Sales-Performance-Dashboard/blob/main/Superstore%20Sales%20Performance%20&%20Insights%20Dashboard.png?raw=true)
+
+### project Insights
+•  The analysis indicates that Phones (technology) and Chairs (furniture) are the highest-selling product sub categories, demonstrating strong consumer demand in both the technology and furniture categories.
+•  The Consumer segment contributes approximately 51% of the total revenue, making it the most significant customer segment in terms of sales performance.
+•  Among the available shipping options, the Standard Class ship mode exhibits the highest impact on overall sales volume, suggesting a strong preference or wider usage across customer orders.
+•  The following products are identified as the top 3 selling products:
+Canon imageCLASS 2200 Advanced Copier
+Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
+Cisco Telepresence System EX90 Videoconferencing Unit
+•  Conversely, the 3 products with the lowest sales figures include:
+Xerox 20
+Avery 5
+Eureka Disposable Bags
+•  The average delivery durations based on the shipping mode are as follows:
+First Class: Approximately 2 days
+Second Class: Approximately 3 days
+Standard Class: Approximately 5 days
+
+### Final Conclusion
+The dashboard provides a clear overview of Superstore’s sales performance, highlighting Phones and Chairs as top-selling product sub categories and the Consumer segment as the highest revenue contributor. Standard Class shipping dominates in volume, while First and Second Class offer faster delivery. Key product insights and delivery trends support strategic decisions to enhance sales and customer satisfaction.
+
